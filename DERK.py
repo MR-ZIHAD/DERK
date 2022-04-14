@@ -48,7 +48,7 @@ d88888P Y888888P YP   YP YP   YP Y8888D'
                                                              
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;93m: MR.KING SPAMING & HELP ZONE
-\033[1;92mFb \033[1;93m: MR.ZIHAD
+\033[1;92mDIVELOPED BY \033[1;93m: MR.ZIHAD
 \033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose Only
 \033[0m----------------------------------
 
